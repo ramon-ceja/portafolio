@@ -3,6 +3,7 @@
 ```sh
 npm create astro@latest -- --template basics
 ```
+## prueba commits -ver
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
